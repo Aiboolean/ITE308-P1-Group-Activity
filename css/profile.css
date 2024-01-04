@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #2D3250;
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff !important;
+}
+
+.custom-card {
+    width: 100%;
+    max-width: 300px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.custom-card img {
+    max-width: 100%;
+    max-height: 100%;
+}
